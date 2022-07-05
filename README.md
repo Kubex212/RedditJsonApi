@@ -11,4 +11,4 @@ lub po prostu
 https://localhost:7217/api/Reddit/random
 ```
 Należy pamiętać o odpowiednim porcie. Domyślnie powinien być to port 7217.
-![Swagger](https://i.postimg.cc/Wp6yqcp7/swag.png)
+![Swagger](https://postimg.cc/yg8xY2qt)
